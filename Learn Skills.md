@@ -1,0 +1,7 @@
+- Knowledge of one of the following: GPU, CPU, Machine Learning, or System architecture
+- Knowledge of design techniques for low power
+- Familiarity with a hardware description language, such as VHDL or Verilog/SystemVerilog
+- Exposure to verification techniques and testbenches (e.g. UVM and Formal)
+- Programming languages such as: assembly language (ideally Arm assembler), higher-level (e.g. C), object-oriented (e.g. C++)
+- Use of a UNIX environment and shell programming/scripting in e.g. Tcl, Perl, Python etc.
+- Exposure to low-level programming or driver development

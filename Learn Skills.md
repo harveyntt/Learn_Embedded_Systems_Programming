@@ -7,3 +7,8 @@
 - Exposure to low-level programming or driver development
 - A keen interest in processors and digital systems
 - Understanding of computer architecture fundamentals
+- Basic understanding of modern computer architecture. Familiarity with Arm (or x86) architecture or micro-architecture.
+- Proven experience in Embedded Software or boot code/firmware development or low level operating systems drivers for processor architecture.
+- Good understanding of different verification or software environments and  toolchains (specifically GNU toolchains)
+- Expertise in at least one programming language (C or C++), one scripting language (Perl or Python) and assembly level programming.
+- Experience in writing test code written in assembly, C, HVL and higher abstraction languages

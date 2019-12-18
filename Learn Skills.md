@@ -5,3 +5,5 @@
 - Programming languages such as: assembly language (ideally Arm assembler), higher-level (e.g. C), object-oriented (e.g. C++)
 - Use of a UNIX environment and shell programming/scripting in e.g. Tcl, Perl, Python etc.
 - Exposure to low-level programming or driver development
+- A keen interest in processors and digital systems
+- Understanding of computer architecture fundamentals

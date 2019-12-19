@@ -15,6 +15,30 @@
 - Expertise in at least one programming language (C or C++), one scripting language (Perl or Python) and assembly level programming.
 - Experience in writing test code written in assembly, C, HVL and higher abstraction languages
 
+-----
+###### Software Skills
+
+- Embedded C Programming on Micrcocontrollers (AVR, PIC, ARM)
+- Interfacing microcontrollers with different sensors and peripherals
+- Kernal Programming
+- Device Drivers
+- Real Time Operating Systems (RTOS)
+- Innovative Thinking
+
+
+- Electronic Circuit Designing
+- Power Supply Circuit Designing
+- PCB Designing
+- Troubleshooting Skills
+
+
+- Learning new microcontroller interfacing yourself
+- Learning new hardware yourself
+- Reading Datasheets
+- Documentation as per company norms
+- Following SDLC
+- Working in a Team
+- Completing Work in Deadlines
 --------
 --------
 
@@ -31,6 +55,10 @@
 3) Take a small project. Need not be too expensive (considering penny and time). Work on it . Solve bugs and attain perfection.
 
 4) Voila!! Do multiple projects. Now you can bring ideas to products and you will be one man army(from embedded to software)!!!! Build quality products and keep contributing to tech!!
+
+5) Learn CAN protocol.
+6) Buy a hardware and write your own drivers for SPI, I2C etc.
+7) Get some hands on some famous microcontroller like Renesas RH850 etc.
 
 -----
 ###### Others Stuff

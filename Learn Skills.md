@@ -15,13 +15,23 @@
 - Expertise in at least one programming language (C or C++), one scripting language (Perl or Python) and assembly level programming.
 - Experience in writing test code written in assembly, C, HVL and higher abstraction languages
 
-
+--------
+--------
 
 ## Steps
-1) Get Electronics Engg. syllabus. Start from basic electronics,semiconductor/transistors/, move on to digital electronics followed by computer architecture, OS, micro controllers-8051 (which is taught in college ), device communication protocols( i2c,spi,uart,-very very imp),RTOS ..
+
+##### basic gpio, i2c,spi, flash programming
+
+1) Get Electronics Engg. syllabus. Start from basic electronics,semiconductor/transistors/, move on to digital electronics followed by computer architecture, OS, micro controllers-8051 (which is taught in college ), device communication protocols (i2c,spi,uart,-very very imp),RTOS ..
 
 2) By now you will be all set  for hands on with development board. I would suggest you to start with Arduino. Being in IT field you can do miracles !! and you will rock in coding.
 
 3) Take a small project. Need not be too expensive (considering penny and time). Work on it . Solve bugs and attain perfection.
 
 4) Voila!! Do multiple projects. Now you can bring ideas to products and you will be one man army(from embedded to software)!!!! Build quality products and keep contributing to tech!!
+
+-----
+###### Others Stuff
+1) It would be helpful to pick up a ARM 32 bit M0 or M3 and start bare metal programming
+2) If you've not worked with 8 bitters like x51, AVR, PIC do try them first, although not a prerequisite.
+3) 

@@ -20,6 +20,8 @@
 
 ## Steps
 
+![7 steps to embedded programming](https://github.com/harveyntt/Learn_Embedded_Systems_Programming/blob/master/data-lake/7-steps-embedded-systems.PNG?raw=true)
+
 ##### basic gpio, i2c,spi, flash programming
 
 1) Get Electronics Engg. syllabus. Start from basic electronics,semiconductor/transistors/, move on to digital electronics followed by computer architecture, OS, micro controllers-8051 (which is taught in college ), device communication protocols (i2c,spi,uart,-very very imp),RTOS ..

@@ -62,6 +62,50 @@
 
 -----
 ###### Others Stuff
-1) It would be helpful to pick up a ARM 32 bit M0 or M3 and start bare metal programming
+1) It would be helpful to pick up a ARM 32 bit M0 or M3 and start bare metal programming.
+
 2) If you've not worked with 8 bitters like x51, AVR, PIC do try them first, although not a prerequisite.
+
 3) 
+
+
+-----------
+# Links
+
+- [Atomic Object](https://atomicobject.com/)
+- [AtomicObject : Learn Embedded Systems Programming](https://spin.atomicobject.com/2015/08/19/learn-embedded-systems-programming/)
+- [Reddit: Programming Assignments](https://www.reddit.com/r/osdev/comments/e8tvh8/best_programming_assignments_to_help_undergrads/)
+- [Ganssle: Perfecting the Art of Building Embedded Systems](http://www.ganssle.com/)
+- [Embedded Artistry: For Beginners](https://embeddedartistry.com/beginners/)
+- [All about Circuits](https://www.allaboutcircuits.com/textbook/)
+- [First Robotics Competition](https://www.firstinspires.org/robotics/frc),  [Awesome- FRC](https://awesomelists.top/#repos/andrewda/awesome-frc)
+- [Github: Awesome Scintific Computing](https://awesomelists.top/#repos/nschloe/awesome-scientific-computing)
+- [Github: Awesome Robotics](https://github.com/Kiloreux/awesome-robotics)
+- [Github: Awesome Electronics](https://github.com/kitspace/awesome-electronics)
+- [Course: Systems Programming -Uni. Notre Dame](https://www3.nd.edu/~pbui/teaching/cse.20289.sp17/)
+- [EDUCBA: Theoritical Explanations](https://www.educba.com/linux-vs-windows/)
+- [EDN: 7 Essential Skill for Firmware Engineer](https://www.edn.com/7-essential-skills-for-firmware-engineers/)
+- 
+
+
+
+
+----
+### ML Links
+- [ML: Talking Machines](http://www.thetalkingmachines.com/)
+- []()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
